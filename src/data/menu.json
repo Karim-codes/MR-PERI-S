@@ -1,0 +1,12 @@
+{
+  "verified": false,
+  "categories": [
+    { "id": "chicken", "name": "Chicken", "verified": false, "items": [] },
+    { "id": "burgers", "name": "Burgers", "verified": false, "items": [] },
+    { "id": "wraps", "name": "Wraps", "verified": false, "items": [] },
+    { "id": "wings", "name": "Wings", "verified": false, "items": [] },
+    { "id": "sides", "name": "Sides", "verified": false, "items": [] },
+    { "id": "drinks", "name": "Drinks", "verified": false, "items": [] },
+    { "id": "meal-deals", "name": "Meal Deals", "verified": false, "items": [] }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mr Peri's",
+  "tagline": "Simply Delicious",
+  "siteUrl": "",
+  "publishReady": false,
+  "logoPath": "",
+  "footerLogoPath": "",
+  "photographyVerified": false,
+  "heroImageAlt": "Illustrative grilled chicken burger with a toasted bun, lettuce and golden fries",
+  "menuImageAlt": "Illustrative peri-peri chicken wings with charred edges and grilled lemon",
+  "locationName": "",
+  "address": null,
+  "openingHours": [],
+  "phone": "",
+  "phoneOrderingConfirmed": false,
+  "directionsUrl": "",
+  "socials": [],
+  "ordering": [
+    { "name": "Uber Eats", "confirmed": false, "url": "" },
+    { "name": "Deliveroo", "confirmed": false, "url": "" },
+    { "name": "Just Eat", "confirmed": false, "url": "" }
+  ]
+}
